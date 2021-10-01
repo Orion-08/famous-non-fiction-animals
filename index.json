@@ -5,6 +5,13 @@
       "species":"Dog",
       "famous_for":"Chetak was the horse ridden by Mewar’s Rajput ruler"
   
+  },
+
+      "id":2,
+      "name":"Chetak",
+      "species":"Dog",
+      "famous_for":"Chetak was the horse ridden by Mewar’s Rajput ruler"
+  
   }
 
 ]
